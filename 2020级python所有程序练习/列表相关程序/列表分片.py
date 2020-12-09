@@ -1,0 +1,9 @@
+L=[1,1.3,"2","china",["I","am","another","list"]]
+#print(L[:])
+#print(L[1:4])
+#print(L[:5])
+#print(L[0:5:2])
+#print(L[0:5:-2])
+#print(L[5:0:-2])
+#print(L[-1:-5:-1])
+print(L[-5:-1:1])

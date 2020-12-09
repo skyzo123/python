@@ -1,0 +1,6 @@
+print('hello world')
+print("we are good student!")
+print('hello world ,"TOM"')
+print("she's a good girl!")
+print('she\'s a good girl!')
+print("hello world ,\"TOM\"")

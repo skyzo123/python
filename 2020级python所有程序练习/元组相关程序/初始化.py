@@ -1,0 +1,5 @@
+nums=('a','a','c','b')
+print(nums)
+print(nums.count('a'))
+print(nums.index('c',1))
+print(nums.index('b',1))

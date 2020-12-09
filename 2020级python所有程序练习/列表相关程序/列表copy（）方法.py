@@ -1,0 +1,19 @@
+# copy()方法用于复制列表
+field=['study','python','is','happy']
+copyfield=field.copy()
+copyfield2=field[:]
+print('复制操作的结果：',copyfield)
+print('使用列表分片实现复制的效果',copyfield2)
+field.append(999)
+print(field)
+print(copyfield)
+print(copyfield2)
+L=[1,2,3,4,5]
+LL=[7,8,9]
+LL=L
+print(L)
+print(LL)
+L.clear();
+print(L)
+print(LL)
+#LL.clear();
